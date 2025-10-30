@@ -2,10 +2,6 @@
 
 Site educacional sobre Libras (Língua Brasileira de Sinais) desenvolvido para o curso de Sistemas para Internet.
 
-## 🎨 Design
-
-O site apresenta um design moderno e acessível com a paleta de cores baseada no azul #78DBF3.
-
 ## 📁 Estrutura
 
 ```
@@ -23,10 +19,8 @@ site-libras/
 ```
 
 ## 🚀 Como usar
-
-1. Abra o arquivo `index.html` no seu navegador
-2. Navegue pelos cards do menu "Vamos"
-3. Explore as diferentes seções do site
+- Basta acessar o link abaixo:
+- https://eduardoreis7.github.io/site-libras/
 
 ## 🛠 Tecnologias Utilizadas
 
